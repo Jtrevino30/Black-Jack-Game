@@ -1,6 +1,6 @@
 
 let player = {
-    Name: "Jesse's credit",
+    Name: "Player credit",
     Chips: 100
 }
 let cards = []
